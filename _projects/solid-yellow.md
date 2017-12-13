@@ -1,6 +1,6 @@
 ---
 layout:       project
-date:         28 Jul 1965
+date:         28 Jul 1955
 title:        Solid Yellow
 caption:      A solid yellow sidebar
 description:  >
