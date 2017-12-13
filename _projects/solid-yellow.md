@@ -1,6 +1,6 @@
 ---
 layout:       project
-date:         28 Jun 2017
+date:         28 Jun 2016
 title:        Solid Yellow
 caption:      A solid yellow sidebar
 description:  >
