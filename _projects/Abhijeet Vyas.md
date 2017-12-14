@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Abhijeet Vyas
-caption:      Loves Ridhi
+caption:      Team member
 description:  >
   Hello
 image:        /assets/img/projects/default.jpg
@@ -20,5 +20,3 @@ accent_image: /assets/img/sidebar-bg.jpg
 ---
 
 ### Abhijeet Vyas
-
-The best tharki!

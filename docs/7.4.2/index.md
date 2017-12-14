@@ -1,56 +1,18 @@
 ---
 layout: page
-title: Documentation
-description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+title: Support Us
+description: On our journey to excellence, Team Anveshak is determined to climb to a position in the top 3 in URC 2018.The team is working on research and development for ecstatic innovations in the field of robotics, the requirement for which is having cutting edge technology at our disposal.
+
 menu: true
 order: 5
 ---
+While the team receives financial aid from the institute, Team Anveshak is seeking for both financial and in-kind sponsorships. We value partnership with our sponsors. We would also be interested to work together with collaborative sponsors on research and development that would be mutually beneficial to our organizations.    
 
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
-Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/qwtel/hydejack/issues) on GitHub.
+Team Anveshak requires assistance from sponsors for:
 
-**NOTE**: While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
-{:.message}
+* Sophisticated equipment such as workstations, , cameras, and motors
+* Electronic components like microprocessors, encoders, and industrial grade connectors
+* Raw materials, machining services and mechanical component such as bearings/conveyor belts
+* Financial assistance for traveling, material, services
 
-Buyers of the PRO version can jump straight to [installation for pro buyers](install.md#pro-version),
-or [upgrades for pro buyers](upgrade.md#pro-version).
-
-## Getting started
-{:.hr}
-
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
-{:.related-posts.faded}
-
-## Using Hydejack
-{:.hr}
-
-* [Basics]{:.heading.flip-title} --- How to add different types of content.
-* [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
-* [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
-* [Build]{:.heading.flip-title} --- How to build the static files for deployment.
-* [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
-{:.related-posts.faded}
-
-## Other
-{:.hr}
-
-* [LICENSE]{:.heading.flip-title} --- The license of this project.
-* [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
-* [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
-{:.related-posts.faded}
-
-[install]: install.md
-[upgrade]: upgrade.md
-[config]: config.md
-[basics]: basics.md
-[writing]: writing.md
-[scripts]: scripts.md
-[build]: build.md
-[advanced]: advanced.md
-[LICENSE]: ../../LICENSE.md
-[NOTICE]: ../../NOTICE.md
-[CHANGELOG]: ../../CHANGELOG.md
+## Our Sponsors
