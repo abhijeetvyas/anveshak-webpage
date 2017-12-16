@@ -15,4 +15,10 @@ Team Anveshak requires assistance from sponsors for:
 * Raw materials, machining services and off-the-shelf mechanical components
 * Financial assistance for traveling, material, services, etc.
 
+[![mosiac](/assets/img/facebook_anveshak.jpg)](https://joyofgiving.alumni.iitm.ac.in/projects/cfi-student-projects/university-rover-challenge-team-anveshak-cfi)
+
 ## Our Sponsors
+
+
+![Maxon motors](/assets/img/sponsors/maxon-motor.jpg) ![Fusion360](/assets/img/sponsors/fusion360.jpg)
+![Pololu](/assets/img/sponsors/pololu.gif) ![Protocase](/assets/img/sponsors/protocase.png)
