@@ -4,7 +4,11 @@
   @include aspect-ratio(1,1);
 }
 
-.layout-projects, .layout-project, .layout-welcome  {
+.two-one {
+  @include aspect-ratio(2,1);
+}
+
+.layout-projects, .layout-project, .layout-spons, .layout-support, .layout-welcome  {
   $pad: 1rem;
 
   .columns {
@@ -27,6 +31,8 @@
 
   @media screen and (min-width: $break-point-1) {
     .column-1-2 { width: 33%; }
+
+    .column-1-1 { width: 50%; }
   }
 
   @media print {

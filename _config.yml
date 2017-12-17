@@ -157,6 +157,10 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  sponsors:
+    permalink:         /sponsors/:path/
+    output:            true
+
 
 # File inclusion/exclusion
 # ========================================================================================

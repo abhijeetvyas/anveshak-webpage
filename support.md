@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: support
 title: Support Us
+show_collection: sponsors
 description: On our journey to excellence, Team Anveshak is determined to climb to a position in the top 3 in URC 2018.The team is working on research and development for ecstatic innovations in the field of robotics, the requirement for which is having cutting edge technology at our disposal.
-
 menu: true
 order: 5
 ---
@@ -18,7 +18,3 @@ Team Anveshak requires assistance from sponsors for:
 [![mosiac](/assets/img/facebook_anveshak.jpg)](https://joyofgiving.alumni.iitm.ac.in/projects/cfi-student-projects/university-rover-challenge-team-anveshak-cfi)
 
 ## Our Sponsors
-
-
-![Maxon motors](/assets/img/sponsors/maxon-motor.jpg) ![Fusion360](/assets/img/sponsors/fusion360.jpg)
-![Pololu](/assets/img/sponsors/pololu.gif) ![Protocase](/assets/img/sponsors/protocase.png)
