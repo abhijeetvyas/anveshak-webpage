@@ -5,13 +5,13 @@ rank:         16
 caption:      Mechatronics Engineer
 description:  >
   Hello
-image:        /assets/img/members/Abhishek Ranghunathan.jpg
+image:        /assets/img/members/Abhishek Raghunathan.jpg
 screenshot:
-  src:        /assets/img/members/Abhishek Ranghunathan.jpg
+  src:        /assets/img/members/Abhishek Raghunathan.jpg
   srcset:
-    1920w:    /assets/img/members/Abhishek Ranghunathan.jpg
-    960w:     /assets/img/members/Abhishek Ranghunathan.jpg
-    480w:     /assets/img/members/Abhishek Ranghunathan.jpg
+    1920w:    /assets/img/members/Abhishek Raghunathan.jpg
+    960w:     /assets/img/members/Abhishek Raghunathan.jpg
+    480w:     /assets/img/members/Abhishek Raghunathan.jpg
 links:
   - title:    Demo
     url:      https://qwtel.com/hydejack/
