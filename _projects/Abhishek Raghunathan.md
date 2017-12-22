@@ -1,6 +1,6 @@
 ---
 layout:       member
-title:        Abhishek Ranghunathan
+title:        Abhishek Raghunathan
 rank:         16
 caption:      Mechatronics Engineer
 description:  >
