@@ -10,8 +10,8 @@ screenshot:
   src:        /assets/img/members/Ridhi Puppala.jpg
   srcset:
     1920w:    /assets/img/members/Ridhi Puppala.jpg
-    960w:     /assets/img/members/Ridhi Puppala@0,5x.jpg
-    480w:     /assets/img/members/Ridhi Puppala@0,25x.jpg
+    960w:     /assets/img/members/Ridhi Puppala.jpg
+    480w:     /assets/img/members/Ridhi Puppala.jpg
 links:
   - title:    Demo
     url:      https://qwtel.com/hydejack/

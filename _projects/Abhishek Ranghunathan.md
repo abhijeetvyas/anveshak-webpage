@@ -10,8 +10,8 @@ screenshot:
   src:        /assets/img/members/Abhishek Ranghunathan.jpg
   srcset:
     1920w:    /assets/img/members/Abhishek Ranghunathan.jpg
-    960w:     /assets/img/members/Abhishek Ranghunathan@0,5x.jpg
-    480w:     /assets/img/members/Abhishek Ranghunathan@0,25x.jpg
+    960w:     /assets/img/members/Abhishek Ranghunathan.jpg
+    480w:     /assets/img/members/Abhishek Ranghunathan.jpg
 links:
   - title:    Demo
     url:      https://qwtel.com/hydejack/

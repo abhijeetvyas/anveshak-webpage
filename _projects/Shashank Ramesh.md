@@ -10,8 +10,8 @@ screenshot:
   src:        /assets/img/members/Shashank Ramesh.jpg
   srcset:
     1920w:    /assets/img/members/Shashank Ramesh.jpg
-    960w:     /assets/img/members/Shashank Ramesh@0,5x.jpg
-    480w:     /assets/img/members/Shashank Ramesh@0,25x.jpg
+    960w:     /assets/img/members/Shashank Ramesh.jpg
+    480w:     /assets/img/members/Shashank Ramesh.jpg
 links:
   - title:    Demo
     url:      https://qwtel.com/hydejack/

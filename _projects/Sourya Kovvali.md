@@ -10,8 +10,8 @@ screenshot:
   src:        /assets/img/members/Sourya Kovvali.jpg
   srcset:
     1920w:    /assets/img/members/Sourya Kovvali.jpg
-    960w:     /assets/img/members/Sourya Kovvali@0,5x.jpg
-    480w:     /assets/img/members/Sourya Kovvali@0,25x.jpg
+    960w:     /assets/img/members/Sourya Kovvali.jpg
+    480w:     /assets/img/members/Sourya Kovvali.jpg
 links:
   - title:    Demo
     url:      https://qwtel.com/hydejack/

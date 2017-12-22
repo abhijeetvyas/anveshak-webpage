@@ -10,8 +10,8 @@ screenshot:
   src:        /assets/img/members/Abhijeet Vyas.jpg
   srcset:
     1920w:    /assets/img/members/Abhijeet Vyas.jpg
-    960w:     /assets/img/members/Abhijeet Vyas@0,5x.jpg
-    480w:     /assets/img/members/Abhijeet Vyas@0,25x.jpg
+    960w:     /assets/img/members/Abhijeet Vyas.jpg
+    480w:     /assets/img/members/Abhijeet Vyas.jpg
 links:
   - title:    Demo
     url:      https://qwtel.com/hydejack/
