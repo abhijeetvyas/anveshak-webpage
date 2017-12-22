@@ -1,8 +1,8 @@
 ---
 layout:       member
-title:        Abhijeet Vyas
-rank:         6
-caption:      Technical Lead
+title:        Shubham
+caption:      Mechanical Engineer
+rank:         15
 description:  >
   Hello
 image:        /assets/img/projects/default.jpg
@@ -19,5 +19,3 @@ featured:     true
 accent_color: '#4fb1ba'
 accent_image: /assets/img/sidebar-bg.jpg
 ---
-
-### Abhijeet Vyas

@@ -1,7 +1,7 @@
 ---
 layout:       member
-title:        Abhijeet Vyas
-rank:         6
+title:        Nikhil Sivadas
+rank:         7
 caption:      Technical Lead
 description:  >
   Hello
@@ -19,5 +19,3 @@ featured:     true
 accent_color: '#4fb1ba'
 accent_image: /assets/img/sidebar-bg.jpg
 ---
-
-### Abhijeet Vyas

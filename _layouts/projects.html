@@ -6,7 +6,7 @@ layout: page
 {{ content }}
 
 {% assign show_collection = page.show_collection | default:"projects" %}
-{% assign ordered_projects = site[show_collection] | sort:"date" | reverse %}
+{% assign ordered_projects = site[show_collection] | sort:"rank" %}
 
 {% assign projects_group_by = site.data.strings.date_formats.projects_group_by | default:"%Y" %}
 

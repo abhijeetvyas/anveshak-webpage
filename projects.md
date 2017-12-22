@@ -1,11 +1,9 @@
 ---
 layout: projects
-title: Projects
+title: Our Team
 show_collection: projects
 description: >
-  This is a demo of the `projects` layout, which is included in the PRO version of Hydejack.
-  Here it is used to showcase different customizations of Hydejack.
-  Open `projects.md` to edit this text.
+  We have a dedicated team focused on building a Mars rover.  
 menu: true
 order: 2
 ---
