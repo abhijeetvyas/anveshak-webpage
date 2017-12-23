@@ -5,13 +5,13 @@ rank:         8
 caption:      Tresurer
 description:  >
   Hello
-image:        /assets/img/projects/default.jpg
+image:        /assets/img/members/Adarsh Somayaji.jpg
 screenshot:
-  src:        /assets/img/projects/default.jpg
+  src:        /assets/img/members/Adarsh Somayaji.jpg
   srcset:
-    1920w:    /assets/img/projects/default.jpg
-    960w:     /assets/img/projects/default@0,5x.jpg
-    480w:     /assets/img/projects/default@0,25x.jpg
+    1920w:    /assets/img/members/Adarsh Somayaji.jpg
+    960w:     /assets/img/members/Adarsh Somayaji.jpg
+    480w:     /assets/img/members/Adarsh Somayaji.jpg
 links:
   - title:    Demo
     url:      https://qwtel.com/hydejack/
