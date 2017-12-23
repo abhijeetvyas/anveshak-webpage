@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Abhijeet Vyas
-rank:         6
+rank:         7
 caption:      Technical Lead
 description:  >
   Hello

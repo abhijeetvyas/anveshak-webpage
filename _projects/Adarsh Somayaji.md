@@ -1,8 +1,8 @@
 ---
 layout:       member
 title:        Adarsh Somayaji
-rank:         8
-caption:      Tresurer
+rank:         6
+caption:      Treasurer
 description:  >
   Hello
 image:        /assets/img/members/Adarsh Somayaji.jpg

@@ -5,13 +5,13 @@ rank:         9
 caption:      Technical Lead(Comms.)
 description:  >
   Hello
-image:        /assets/img/projects/default.jpg
+image:        /assets/img/members/Sankalp Chapalgoankar.jpg
 screenshot:
-  src:        /assets/img/projects/default.jpg
+  src:        /assets/img/members/Sankalp Chapalgoankar.jpg
   srcset:
-    1920w:    /assets/img/projects/default.jpg
-    960w:     /assets/img/projects/default@0,5x.jpg
-    480w:     /assets/img/projects/default@0,25x.jpg
+    1920w:    /assets/img/members/Sankalp Chapalgoankar.jpg
+    960w:     /assets/img/members/Sankalp Chapalgoankar.jpg
+    480w:     /assets/img/members/Sankalp Chapalgoankar.jpg
 links:
   - title:    Demo
     url:      https://qwtel.com/hydejack/
