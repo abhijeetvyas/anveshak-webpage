@@ -35,11 +35,10 @@ img {
 }
 
 /* Next & previous buttons */
-.prev,
-.next {
+.prev, .next {
   cursor: pointer;
   position: absolute;
-  top: 40%;
+  top: 35%;
   width: auto;
   padding: 16px;
   margin-top: -50px;
@@ -53,7 +52,7 @@ img {
 
 /* Position the "next button" to the right */
 .next {
-  right: 0;
+  right: 15px;
   border-radius: 3px 0 0 3px;
 }
 
@@ -76,7 +75,7 @@ img {
 .caption-container {
   text-align: center;
   background-color: #222;
-  padding: 2px 16px;
+  padding: 2px 10px;
   color: white;
 }
 
@@ -104,7 +103,7 @@ img {
 </style>
 <body>
 
-<h2 style="text-align:center">Slideshow Gallery</h2>
+<h2 style="text-align:left">Gallery</h2>
 
 <div class="container">
   <div class="mySlides">
@@ -176,40 +175,40 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/1.jpg" style="width:100%" onclick="currentSlide(1)" alt="Anveshak">
+      <img class="demo cursor" src="/assets/img/gallery/1.jpg" style="width:100%" onclick="currentSlide(1)" alt="Aurora - Mars Rover IIT Madras">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/2.jpg" style="width:100%" onclick="currentSlide(2)" alt="Anveshak">
+      <img class="demo cursor" src="/assets/img/gallery/2.jpg" style="width:100%" onclick="currentSlide(2)" alt="Team Anveshak @Salt Lake City">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/3.jpg" style="width:100%" onclick="currentSlide(3)" alt="Anveshak">
+      <img class="demo cursor" src="/assets/img/gallery/3.jpg" style="width:100%" onclick="currentSlide(3)" alt="Rover @Pit Stop">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/4.jpg" style="width:100%" onclick="currentSlide(4)" alt="Anveshak">
+      <img class="demo cursor" src="/assets/img/gallery/4.jpg" style="width:100%" onclick="currentSlide(4)" alt="Aurora @Gajendra Circle">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/5.jpg" style="width:100%" onclick="currentSlide(5)" alt="Anveshak">
+      <img class="demo cursor" src="/assets/img/gallery/5.jpg" style="width:100%" onclick="currentSlide(5)" alt="Anveshak family">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/6.jpg" style="width:100%" onclick="currentSlide(6)" alt="Anveshak">
+      <img class="demo cursor" src="/assets/img/gallery/6.jpg" style="width:100%" onclick="currentSlide(6)" alt="Freshers' Orientation">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/7.jpg" style="width:100%" onclick="currentSlide(7)" alt="Anveshak">
+      <img class="demo cursor" src="/assets/img/gallery/7.jpg" style="width:100%" onclick="currentSlide(7)" alt="Aurora - Extreme Retrieval Task">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/8.jpg" style="width:100%" onclick="currentSlide(8)" alt="Anveshak">
+      <img class="demo cursor" src="/assets/img/gallery/8.jpg" style="width:100%" onclick="currentSlide(8)" alt="Aurora - Autonomous Travesal Task">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/9.jpg" style="width:100%" onclick="currentSlide(9)" alt="Anveshak">
+      <img class="demo cursor" src="/assets/img/gallery/9.jpg" style="width:100%" onclick="currentSlide(9)" alt="Team Photograph">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/10.jpg" style="width:100%" onclick="currentSlide(10)" alt="Anveshak">
+      <img class="demo cursor" src="/assets/img/gallery/10.jpg" style="width:100%" onclick="currentSlide(10)" alt="Aurora - Astronaut Assistance Task">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/11.jpg" style="width:100%" onclick="currentSlide(11)" alt="Anveshak">
+      <img class="demo cursor" src="/assets/img/gallery/11.jpg" style="width:100%" onclick="currentSlide(11)" alt="Team Anveshak @Bryce Canyon">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/12.jpg" style="width:100%" onclick="currentSlide(12)" alt="Anveshak">
+      <img class="demo cursor" src="/assets/img/gallery/12.jpg" style="width:100%" onclick="currentSlide(12)" alt="Team Anveshak with facult advisor Prof. T. Asokan">
     </div>
   </div>
 </div>
@@ -219,14 +218,32 @@ var slideIndex = 1;
 showSlides(slideIndex);
 
 function plusSlides(n) {
-  showSlides(slideIndex += n);
+  changeSlides(slideIndex += n);
 }
 
 function currentSlide(n) {
-  showSlides(slideIndex = n);
+  changeSlides(slideIndex = n);
 }
 
-function showSlides(n) {
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("demo");
+    var captionText = document.getElementById("caption");
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
+    slides[slideIndex-1].style.display = "block";
+    dots[slideIndex-1].className += " active";
+    captionText.innerHTML = dots[slideIndex-1].alt;
+    setTimeout(showSlides, 5000); // Change image every 5 seconds
+}
+function changeSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
   var dots = document.getElementsByClassName("demo");
