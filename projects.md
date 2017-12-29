@@ -3,7 +3,7 @@ layout: projects
 title: Our Team
 show_collection: projects
 description: >
-  We have a dedicated team focused on building a Mars rover.  
+  Team Anveshak comprises of 30+ enthusiastic undergraduates from different verticals of engineering working towards development of a semi-autonomous vehicle capable of extreme terrain traversal and scientific exploration. 
 menu: true
 order: 2
 ---
