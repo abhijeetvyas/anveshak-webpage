@@ -4,263 +4,61 @@ title: About Us
 ---
 <!DOCTYPE html>
 <html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-  font-family: Arial;
-  margin: 0;
-}
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Made with WOW Slider - Create beautiful, responsive image sliders in a few clicks. Awesome skins and animations. Responsive slider" />
 
-* {
-  box-sizing: border-box;
-}
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
 
-img {
-  vertical-align: middle;
-}
-
-/* Position the image container (needed to position the left and right arrows) */
-.container {
-  position: relative;
-}
-
-/* Hide the images by default */
-.mySlides {
-  display: none;
-}
-
-/* Add a pointer when hovering over the thumbnail images */
-.cursor {
-  cursor: pointer;
-}
-
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 35%;
-  width: auto;
-  padding: 16px;
-  margin-top: -50px;
-  color: white;
-  font-weight: bold;
-  font-size: 20px;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-  -webkit-user-select: none;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 15px;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover,
-.next:hover {
-  background-color: rgba(0, 0, 0, 0.8);
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* Container for image text */
-.caption-container {
-  text-align: center;
-  background-color: #222;
-  padding: 2px 10px;
-  color: white;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Six columns side by side */
-.column {
-  float: left;
-  width: 16.66%;
-}
-
-/* Add a transparency effect for thumnbail images */
-.demo {
-  opacity: 0.6;
-}
-
-.active,
-.demo:hover {
-  opacity: 1;
-}
-</style>
+</head>
 <body>
 
-<h2 style="text-align:left">Gallery</h2>
+<h2>Vision</h2>
+<p>Team Anveshak was set up with a vision to inspire students to work on challenging problems in space exploratory robotics. Our underlying vision has now expanded with the team aiming to not only develop an all terrain rover but also educate people on the importance of space research. In future, Team Anveshak aspires to assist various <b>Space Agencies</b>, <b>Defence Organizations</b> & <b>Ministries of the Govt. of India</b> in developing disaster management systems and deploying scientific expeditions or reconnaissance missions.</p>
 
-<div class="container">
-  <div class="mySlides">
-    <div class="numbertext">1 / 12</div>
-    <img src="/assets/img/gallery/1.jpg" style="width:100%">
-  </div>
+<h2>History and Achievements</h2>
 
-  <div class="mySlides">
-    <div class="numbertext">2 / 12</div>
-    <img src="/assets/img/gallery/2.jpg" style="width:100%">
-  </div>
+<p>The foundations of the team were laid by the senior undergraduates and alumni of the Robotics Club under Center For Innovation, IIT Madras in 2016. The team takes great pride in it’s progress since its’ establishment  with our rover “Aurora” being designed & manufactured in a short time frame of about 6 months. The team secured a position among the top 30 teams from all over the world in its debut attempt at URC 2017. One of three teams from India, Team Anveshak cleared the preliminary levels of the competition from amongst 80+ teams from all over the world. The team’s performance in Utah captured the attention of prominent national dailies - The Times of India, India Today- reiterating our commitment to developing world class technologies in India & pushing the boundaries of innovation.</p>
 
-  <div class="mySlides">
-    <div class="numbertext">3 / 12</div>
-    <img src="/assets/img/gallery/3.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">4 / 12</div>
-    <img src="/assets/img/gallery/4.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">5 / 12</div>
-    <img src="/assets/img/gallery/5.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">6 / 12</div>
-    <img src="/assets/img/gallery/6.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">7 / 12</div>
-    <img src="/assets/img/gallery/7.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">8 / 12</div>
-    <img src="/assets/img/gallery/8.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">9 / 12</div>
-    <img src="/assets/img/gallery/9.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">10 / 12</div>
-    <img src="/assets/img/gallery/10.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">11 / 12</div>
-    <img src="/assets/img/gallery/11.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">12 / 12</div>
-    <img src="/assets/img/gallery/12.jpg" style="width:100%">
-  </div>
-
-  <a class="prev" onclick="plusSlides(-1)">?</a>
-  <a class="next" onclick="plusSlides(1)">?</a>
-
-  <div class="caption-container">
-    <p id="caption"></p>
-  </div>
-
-  <div class="row">
-    <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/1.jpg" style="width:100%" onclick="currentSlide(1)" alt="Aurora - Mars Rover IIT Madras">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/2.jpg" style="width:100%" onclick="currentSlide(2)" alt="Team Anveshak @Salt Lake City">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/3.jpg" style="width:100%" onclick="currentSlide(3)" alt="Rover @Pit Stop">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/4.jpg" style="width:100%" onclick="currentSlide(4)" alt="Aurora @Gajendra Circle">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/5.jpg" style="width:100%" onclick="currentSlide(5)" alt="Anveshak family">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/6.jpg" style="width:100%" onclick="currentSlide(6)" alt="Freshers' Orientation">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/7.jpg" style="width:100%" onclick="currentSlide(7)" alt="Aurora - Extreme Retrieval Task">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/8.jpg" style="width:100%" onclick="currentSlide(8)" alt="Aurora - Autonomous Travesal Task">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/9.jpg" style="width:100%" onclick="currentSlide(9)" alt="Team Photograph">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/10.jpg" style="width:100%" onclick="currentSlide(10)" alt="Aurora - Astronaut Assistance Task">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/11.jpg" style="width:100%" onclick="currentSlide(11)" alt="Team Anveshak @Bryce Canyon">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/img/gallery/12.jpg" style="width:100%" onclick="currentSlide(12)" alt="Team Anveshak with facult advisor Prof. T. Asokan">
-    </div>
-  </div>
-</div>
-
-<script>
-var slideIndex = 1;
-showSlides(slideIndex);
-
-function plusSlides(n) {
-  changeSlides(slideIndex += n);
-}
-
-function currentSlide(n) {
-  changeSlides(slideIndex = n);
-}
-
-function showSlides() {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("demo");
-    var captionText = document.getElementById("caption");
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-    }
-    for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
-    }
-    slideIndex++;
-    if (slideIndex > slides.length) {slideIndex = 1}
-    slides[slideIndex-1].style.display = "block";
-    dots[slideIndex-1].className += " active";
-    captionText.innerHTML = dots[slideIndex-1].alt;
-    setTimeout(showSlides, 5000); // Change image every 5 seconds
-}
-function changeSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("demo");
-  var captionText = document.getElementById("caption");
-  if (n > slides.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-  }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";
-  dots[slideIndex-1].className += " active";
-  captionText.innerHTML = dots[slideIndex-1].alt;
-}
-</script>
+<h2>Gallery</h2>
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+		<li><img src="data1/images/1.jpg" alt="Aurora - Mars Rover" title="Aurora - Mars Rover" id="wows1_0"/></li>
+		<li><img src="data1/images/2.jpg" alt="Team @Salt Lake City" title="Team @Salt Lake City" id="wows1_1"/></li>
+		<li><img src="data1/images/3.jpg" alt="Aurora @Pit Stop" title="Aurora @Pit Stop" id="wows1_2"/></li>
+		<li><img src="data1/images/4.jpg" alt="Aurora @Gajendra Circle" title="Aurora @Gajendra Circle" id="wows1_3"/></li>
+		<li><img src="data1/images/5.jpg" alt="Freshers' Orientation '17" title="Freshers' Orientation '17" id="wows1_4"/></li>
+		<li><img src="data1/images/6.jpg" alt="Freshers' Orientation '17" title="Freshers' Orientation '17" id="wows1_5"/></li>
+		<li><img src="data1/images/7.jpg" alt="Extreme Retrival Task" title="Extreme Retrival Task" id="wows1_6"/></li>
+		<li><img src="data1/images/8.jpg" alt="Autonomous Traversal Task" title="Autonomous Traversal Task" id="wows1_7"/></li>
+		<li><img src="data1/images/9.jpg" alt="Anveshak Family " title="Anveshak Family " id="wows1_8"/></li>
+		<li><img src="data1/images/10.jpg" alt="10" title="10" id="wows1_9"/></li>
+		<li><img src="data1/images/11.jpg" alt="wow slider" title="Team Anveshak @Bryce Canyon" id="wows1_10"/></li>
+		<li><img src="data1/images/12.jpg" alt="Team Anveshak with Fac. Adv. T. Asokan" title="Team Anveshak with Fac. Adv. T. Asokan" id="wows1_11"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Aurora - Mars Rover"><span><img src="data1/tooltips/1.jpg" alt="Aurora - Mars Rover"/>1</span></a>
+		<a href="#" title="Team @Salt Lake City"><span><img src="data1/tooltips/2.jpg" alt="Team @Salt Lake City"/>2</span></a>
+		<a href="#" title="Aurora @Pit Stop"><span><img src="data1/tooltips/3.jpg" alt="Aurora @Pit Stop"/>3</span></a>
+		<a href="#" title="Aurora @Gajendra Circle"><span><img src="data1/tooltips/4.jpg" alt="Aurora @Gajendra Circle"/>4</span></a>
+		<a href="#" title="Freshers' Orientation '17"><span><img src="data1/tooltips/5.jpg" alt="Freshers' Orientation '17"/>5</span></a>
+		<a href="#" title="Freshers' Orientation '17"><span><img src="data1/tooltips/6.jpg" alt="Freshers' Orientation '17"/>6</span></a>
+		<a href="#" title="Extreme Retrival Task"><span><img src="data1/tooltips/7.jpg" alt="Extreme Retrival Task"/>7</span></a>
+		<a href="#" title="Autonomous Traversal Task"><span><img src="data1/tooltips/8.jpg" alt="Autonomous Traversal Task"/>8</span></a>
+		<a href="#" title="Anveshak Family "><span><img src="data1/tooltips/9.jpg" alt="Anveshak Family "/>9</span></a>
+		<a href="#" title="10"><span><img src="data1/tooltips/10.jpg" alt="10"/>10</span></a>
+		<a href="#" title="Team Anveshak @Bryce Canyon"><span><img src="data1/tooltips/11.jpg" alt="Team Anveshak @Bryce Canyon"/>11</span></a>
+		<a href="#" title="Team Anveshak with Fac. Adv. T. Asokan"><span><img src="data1/tooltips/12.jpg" alt="Team Anveshak with Fac. Adv. T. Asokan"/>12</span></a>
+	</div></div>
+	<div class="ws_shadow"></div>
+	</div>
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
 
 </body>
 </html>
