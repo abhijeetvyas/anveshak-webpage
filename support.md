@@ -10,11 +10,14 @@ While the team receives financial aid from the institute, Team Anveshak is seeki
 
 Team Anveshak requires assistance from sponsors for:
 
-* Sophisticated equipment such as workstations, cameras, and motors
-* Electronic components like microprocessors, encoders, and industrial grade connectors
-* Raw materials, machining services and off-the-shelf mechanical components
-* Financial assistance for traveling, material, services, etc.
+* Sophisticated equipment such as workstation, cameras and actuators
+* Electronic components like microprocessors, sensors and industrial grade connectors
+* Raw material, fabrication and mechanical component such as bearings and conveyor belts
+* Financial assistance for travel and logistics
 
-[![mosiac](/assets/img/facebook_anveshak.jpg)](https://joyofgiving.alumni.iitm.ac.in/projects/cfi-student-projects/university-rover-challenge-team-anveshak-cfi)
+## Donate to Team Anveshak
+Team Anveshak accepts online donation through our [Crowd-Funding portal](https://joyofgiving.alumni.iitm.ac.in/projects/cfi-student-projects/university-rover-challenge-team-anveshak-cfi)  
+For corporate sponsorships, please contact us at <a href="mailto:TeamAnveshak@smail.iitm.ac.in">TeamAnveshak@smail.iitm.ac.in</a>  
+You can find our brochure [here](https://drive.google.com/open?id=1tf_VPDtjpd1JNVrvm_zk9decBzO22xyn)
 
 ## Our Sponsors
