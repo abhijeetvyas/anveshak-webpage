@@ -2,7 +2,7 @@
 layout:       member
 title:        Raghavendra Ajit
 rank:         3
-caption:      CFO
+caption:      Sponsorships and PR Head
 description:  >
   Hello
 image:        /assets/img/members/Raghavendra Ajit.jpg
