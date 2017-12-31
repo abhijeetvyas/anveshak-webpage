@@ -2,7 +2,7 @@
 layout:       member
 title:        Pavan Vemuri
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Pavan Vemuri.jpg
 screenshot:
   src:        /assets/img/freshers/Pavan Vemuri.jpg

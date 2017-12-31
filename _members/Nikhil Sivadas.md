@@ -2,7 +2,7 @@
 layout:       member
 title:        Nikhil Sivadas
 rank:         8
-caption:      Technical Lead
+caption:      TeRA Lead + swag
 description:  >
   Hello
 image:        /assets/img/members/Nikhil Sivadas.jpg

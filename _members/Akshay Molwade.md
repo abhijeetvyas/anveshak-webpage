@@ -1,8 +1,8 @@
 ---
 layout:       member
 title:        Akshay Molawade
-rank:         4
-caption:      Team Leader
+rank:         1
+caption:      Team Lead, Chassis
 description:  >
   Hello
 image:        /assets/img/members/Akshay Molawade.jpg

@@ -2,7 +2,7 @@
 layout:       member
 title:        Nandhini Jayakumar Usharani
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Nandhini Jayakumar Usharani.jpg
 screenshot:
   src:        /assets/img/freshers/Nandhini Jayakumar Usharani.jpg

@@ -2,7 +2,7 @@
 layout:       member
 title:        Sarin John
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Sarin John.jpg
 screenshot:
   src:        /assets/img/freshers/Sarin John.jpg

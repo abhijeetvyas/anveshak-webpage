@@ -2,7 +2,7 @@
 layout:       member
 title:        Adarsh Somayaji
 rank:         6
-caption:      Treasurer
+caption:      Mech., Money and Mangalore
 description:  >
   Hello
 image:        /assets/img/members/Adarsh Somayaji.jpg

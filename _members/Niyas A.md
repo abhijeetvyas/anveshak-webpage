@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Niyas A
-rank:         11
+rank:         12
 caption:      Software Engineer
 description:  >
   Hello

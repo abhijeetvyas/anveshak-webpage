@@ -2,7 +2,7 @@
 layout:       member
 title:        Sashank Tirumala
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Sashank Tirumala.jpg
 screenshot:
   src:        /assets/img/freshers/Sashank Tirumala.jpg

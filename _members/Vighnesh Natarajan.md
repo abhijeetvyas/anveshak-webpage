@@ -2,7 +2,7 @@
 layout:       member
 title:        Vighnesh Natarajan
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Vighnesh Natarajan.jpg
 screenshot:
   src:        /assets/img/freshers/Vighnesh Natarajan.jpg

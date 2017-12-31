@@ -2,7 +2,7 @@
 layout:       member
 title:        B Bharatwaajan
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/B Bharatwaajan.jpg
 screenshot:
   src:        /assets/img/freshers/B Bharatwaajan.jpg

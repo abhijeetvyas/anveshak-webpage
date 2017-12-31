@@ -2,7 +2,7 @@
 layout:       member
 title:        Tanay
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Tanay.jpg
 screenshot:
   src:        /assets/img/freshers/Tanay.jpg

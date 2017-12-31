@@ -2,7 +2,7 @@
 layout:       member
 title:        Kabir Khanna
 rank:         100
-caption:      Team member
+caption:      Fresher
 
 image:        /assets/img/freshers/Kabir Khanna.jpg
 screenshot:

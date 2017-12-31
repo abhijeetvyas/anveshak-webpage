@@ -1,8 +1,8 @@
 ---
 layout:       member
 title:        Shubham Jain
-caption:      Mechanical Engineer
-rank:         15
+caption:      Mechanical Engineer (Chassis)
+rank:         16
 description:  >
   Hello
 image:        /assets/img/members/Shubham Jain.jpg

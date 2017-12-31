@@ -1,8 +1,8 @@
 ---
 layout:       member
 title:        Naveen Reddy
-rank:         14
-caption:      Mechanical Engineer
+rank:         15
+caption:      Mechanical Engineer (Chassis)
 description:  >
   Hello
 image:        /assets/img/members/Naveen Reddy.jpg

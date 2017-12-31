@@ -2,7 +2,7 @@
 layout:       member
 title:        Tarun Prasad
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Tarun Prasad.jpg
 screenshot:
   src:        /assets/img/freshers/Tarun Prasad.jpg

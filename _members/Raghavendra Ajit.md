@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Raghavendra Ajit
-rank:         3
+rank:         5
 caption:      Sponsorships and PR Head
 description:  >
   Hello

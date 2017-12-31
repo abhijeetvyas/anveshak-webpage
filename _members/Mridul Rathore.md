@@ -2,7 +2,7 @@
 layout:       member
 title:        Mridul Rathore
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Mridul Rathore.jpg
 screenshot:
   src:        /assets/img/freshers/Mridul Rathore.jpg

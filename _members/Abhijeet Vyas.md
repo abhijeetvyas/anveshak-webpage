@@ -2,7 +2,7 @@
 layout:       member
 title:        Abhijeet Vyas
 rank:         7
-caption:      Technical Lead
+caption:      Technical Lead, Web and Design, Pro Stalker
 description:  >
   Hello
 image:        /assets/img/members/Abhijeet Vyas.jpg

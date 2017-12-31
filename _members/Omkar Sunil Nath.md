@@ -2,7 +2,7 @@
 layout:       member
 title:        Omkar Sunil Nath
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Omkar Sunil Nath.jpg
 screenshot:
   src:        /assets/img/freshers/Omkar Sunil Nath.jpg

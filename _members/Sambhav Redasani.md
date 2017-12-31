@@ -2,7 +2,7 @@
 layout:       member
 title:        Sambhav Redasani
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Sambhav Redasani.jpg
 screenshot:
   src:        /assets/img/freshers/Sambhav Redasani.jpg

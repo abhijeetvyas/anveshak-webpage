@@ -2,7 +2,7 @@
 layout:       member
 title:        Sankalp Chapalgaonkar
 rank:         9
-caption:      Technical Lead(Comms.)
+caption:      Technical Lead (Comms.)
 description:  >
   Hello
 image:        /assets/img/members/Sankalp Chapalgaonkar.jpg

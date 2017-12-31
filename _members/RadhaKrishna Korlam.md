@@ -1,8 +1,8 @@
 ---
 layout:       member
 title:        RadhaKrishna Korlam
-rank:         17
-caption:      Mechanical Engineer
+rank:         10
+caption:      Designer, Chassis Engineer
 description:  >
   Hello
 image:        /assets/img/members/RadhaKrishna Korlam.jpg

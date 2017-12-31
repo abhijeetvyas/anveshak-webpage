@@ -1,8 +1,8 @@
 ---
 layout:       member
 title:        Sourya Kovvali
-rank:         1
-caption:      CEO
+rank:         3
+caption:      Team President, Web and Design, TeRA
 description:  >
   Hello
 image:        /assets/img/members/Sourya Kovvali.jpg

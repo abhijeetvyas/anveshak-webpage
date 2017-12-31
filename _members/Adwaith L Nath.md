@@ -2,7 +2,7 @@
 layout:       member
 title:        Adwaith L Nath
 caption:      Electronics Engineer
-rank:         13
+rank:         14
 description:  >
   Hello
 image:        /assets/img/members/Adwaith L Nath.jpg

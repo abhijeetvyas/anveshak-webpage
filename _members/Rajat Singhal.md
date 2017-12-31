@@ -2,7 +2,7 @@
 layout:       member
 title:        Rajat Singhal
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Rajat Singhal.jpg
 screenshot:
   src:        /assets/img/freshers/Rajat Singhal.jpg

@@ -2,7 +2,7 @@
 layout:       member
 title:        Aswin Vijay
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Aswin Vijay.jpg
 screenshot:
   src:        /assets/img/freshers/Aswin Vijay.jpg

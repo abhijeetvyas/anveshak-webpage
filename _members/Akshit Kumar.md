@@ -1,8 +1,8 @@
 ---
 layout:       member
 title:        Akshit Kumar
-rank:         2
-caption:      CTO
+rank:         4
+caption:      Software Director
 description:  >
   Hello
 image:        /assets/img/members/Akshit Kumar.jpg

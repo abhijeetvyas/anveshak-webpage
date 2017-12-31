@@ -2,7 +2,7 @@
 layout:       member
 title:        Aditya Sundararajan
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Aditya Sundararajan.jpg
 screenshot:
   src:        /assets/img/freshers/Aditya Sundararajan.jpg

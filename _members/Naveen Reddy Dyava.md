@@ -2,7 +2,7 @@
 layout:       member
 title:        Naveen Reddy Dyava
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Naveen Reddy Dyava.jpg
 screenshot:
   src:        /assets/img/freshers/Naveen Reddy Dyava.jpg

@@ -1,8 +1,8 @@
 ---
 layout:       member
 title:        Abhishek Raghunathan
-rank:         16
-caption:      Mechatronics Engineer
+rank:         17
+caption:      Mechanical Engineer (TeRA) and a kinky king
 description:  >
   Hello
 image:        /assets/img/members/Abhishek Raghunathan.jpg

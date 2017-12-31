@@ -2,7 +2,7 @@
 layout:       member
 title:        Sravan Mothe
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Sravan Mothe.jpg
 screenshot:
   src:        /assets/img/freshers/Sravan Mothe.jpg

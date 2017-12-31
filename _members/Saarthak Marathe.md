@@ -2,7 +2,7 @@
 layout:       member
 title:        Saarthak Marathe
 rank:         100
-caption:      Team member
+caption:      Fresher
 image:        /assets/img/freshers/Saarthak Marathe.jpg
 screenshot:
   src:        /assets/img/freshers/Saarthak Marathe.jpg

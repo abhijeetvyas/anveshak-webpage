@@ -1,8 +1,8 @@
 ---
 layout:       member
 title:        Ridhi Puppala
-rank:         5
-caption:      Team Leader
+rank:         2
+caption:      Team Lead, Electronics
 description:  >
   Hello
 image:        /assets/img/members/Ridhi Puppala.jpg

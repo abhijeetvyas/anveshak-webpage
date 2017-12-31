@@ -22,7 +22,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 TEAM ANVESHAK
+title:                 Team Anveshak
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -35,7 +35,7 @@ title:                 TEAM ANVESHAK
 tagline:               >
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [rover, mars, robtotics]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon.png
@@ -55,8 +55,8 @@ copyright:             © 2017. All rights reserved.
 permalink:             pretty
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              5
-paginate_path:         /blog/page-:num/
+# paginate:              5
+# paginate_path:         /blog/page-:num/
 
 
 # Customizaton
