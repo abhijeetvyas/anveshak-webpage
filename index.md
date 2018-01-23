@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Welcome, Team Anveshak!
+title: Welcome!
 ---
-## Who we are?
-Team Anveshak was founded in 2015 with the sole purpose of exploration in Field Robotics, the team on it's 2nd anniversary has successfully fabricated two variants of the Mars Rover **_Aurora_**.  
+## Who are we?
+Team Anveshak was founded in 2015 with the sole purpose of exploring Field Robotics and foster the robotics culture at IIT Madras. The team has recently finished its 2nd anniversary and has successfully fabricated two variants of the Mars Rover **_Aurora_**.  
 
 <img src="/assets/img/gallery/1.jpg">
 
@@ -21,13 +21,20 @@ The Mars Society, USA is an organization dedicated to promote the exploration an
 ## Centre for Innovation(CFI) and IIT Madras
 IIT Madras, the premier institution for engineering in India, provides a base for all activities of Team Anveshak. The team is primarily funded by IIT Madras and works under the umbrella of Centre For Innovation (CFI), the student run makerspace​ of​ ​IIT Madras. More information about CFI can be found here.
 ## Videos
-<iframe width="720" height="405"
-src="https://www.youtube.com/embed/Kp57rUgvOAI">
-</iframe>
 
-<iframe width="720" height="405"
-src="https://www.youtube.com/embed/aYBl224yNzA">
-</iframe>
+<div style = "float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
+  <iframe
+  style = "position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  src="https://www.youtube.com/embed/Kp57rUgvOAI?rel=0">
+  </iframe>
+</div>
+
+<div style = "float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
+  <iframe
+  style = "position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  src="https://www.youtube.com/embed/aYBl224yNzA?rel=0">
+  </iframe>
+</div>
 ---
 <style>
 img {

@@ -17,7 +17,7 @@ Team Anveshak requires assistance from sponsors for:
 
 ## Donate to Team Anveshak
 Team Anveshak accepts online donation through our [Crowd-Funding portal](https://joyofgiving.alumni.iitm.ac.in/projects/cfi-student-projects/university-rover-challenge-team-anveshak-cfi)  
-For corporate sponsorships, please contact us at <a href="mailto:TeamAnveshak@smail.iitm.ac.in">TeamAnveshak@smail.iitm.ac.in</a>  
-You can find our brochure [here](https://drive.google.com/open?id=1tf_VPDtjpd1JNVrvm_zk9decBzO22xyn)
+For corporate sponsorships, please contact us at <a href="mailto:TeamAnveshak@smail.iitm.ac.in">teamanveshak@smail.iitm.ac.in</a>  
+You can find our brochure [here](/assets/TeamAnveshak.pdf)
 
 ## Our Sponsors
