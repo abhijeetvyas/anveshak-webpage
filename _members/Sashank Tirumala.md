@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Sashank Tirumala
-rank:         100
+rank:         18
 caption:      Fresher
 image:        /assets/img/freshers/Sashank Tirumala.jpg
 screenshot:
