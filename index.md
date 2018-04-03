@@ -8,6 +8,7 @@ Team Anveshak was founded in 2015 with the sole purpose of exploring Field Robot
 <img src="/assets/img/aurora.jpg">
 
 The team brings together a set of highly dedicated and skilled students working on   mechanical design, system architecture and control, outreach and business relations. Our team participates in the University Rover Challenge(URC), an international robotics competition geared towards space exploration & research. We also organize educational workshops for students of our institute on different aspects of robotics. The technical knowledge and practical experience the team imparts to its members is unparalleled, nurturing them into effective team players and leaders of industry and research.
+### **<span style="background-color: #e26327"><font color="white"> Team Anveshak has qualified for University Rover Challenge 2018. </font></span>**
 
 <img src="/assets/img/team photo.jpg">
 ## University Rover Challenge (URC)
